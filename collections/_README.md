@@ -1,0 +1,1 @@
+Collections used by Jekyll go here.

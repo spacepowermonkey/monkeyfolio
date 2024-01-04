@@ -1,0 +1,16 @@
+title: "Title of Your Website"
+description: >- 
+  A description of your website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.yourwebsite.com" 
+
+
+author:
+  email: contact@yourwebsite.com
+social:
+  github: youraccount
+
+
+# Build settings
+markdown: kramdown
+remote_theme: spacepowermonkey/monkeyfolio
