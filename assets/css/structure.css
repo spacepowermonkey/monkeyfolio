@@ -3,7 +3,18 @@ img {
     height: auto;
 }
 
-.page-content {
+
+
+.structure-header {
+    position: fixed;
+    margin: 0 auto;
+    max-width: 1000px;
+    width: 100%;
+    padding: 10px; /* Add padding for better styling */
+    z-index: 1000; /* Ensure the header is above other elements */
+}
+
+.structure-page-content {
     margin: 0 auto; /* Center the content */
     max-width: 800px; /* Set the maximum width */
     width: 100%; /* Take up the full width initially */
