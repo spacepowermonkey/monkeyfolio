@@ -6,10 +6,10 @@ img {
 
 
 .structure-header {
-    position: fixed;
     margin: 0 auto;
     max-width: 1000px;
     width: 100%;
+    padding: 10px; /* Add padding for better styling */
     z-index: 1000; /* Ensure the header is above other elements */
 }
 
