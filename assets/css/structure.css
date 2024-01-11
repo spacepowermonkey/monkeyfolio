@@ -11,7 +11,6 @@ img {
     width: 100%;
     padding: 10px; /* Add padding for better styling */
     z-index: 1000; /* Ensure the header is above other elements */
-    position: fixed;
 }
 
 .structure-page-content {
@@ -29,5 +28,4 @@ img {
     width: 100%;
     padding: 10px; /* Add padding for better styling */
     z-index: 1000; /* Ensure the header is above other elements */
-    position: fixed;
 }
