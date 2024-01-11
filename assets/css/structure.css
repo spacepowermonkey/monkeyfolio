@@ -1,0 +1,8 @@
+.page-content {
+    margin: 0 auto; /* Center the content */
+    max-width: 800px; /* Set the maximum width */
+    width: 100%; /* Take up the full width initially */
+    padding: 0 20px; /* Add padding to the sides for better spacing */
+  
+    /* Add any additional styles you may need for your content */
+}
