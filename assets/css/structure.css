@@ -1,3 +1,8 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .page-content {
     margin: 0 auto; /* Center the content */
     max-width: 800px; /* Set the maximum width */
