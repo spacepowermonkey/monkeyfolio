@@ -12,3 +12,10 @@
 .decorate-content {
     background-color: cornsilk;
 }
+
+.decorate-footer {
+    background-color: cornsilk;
+    border-left: 3px solid white; /* Thin white outline on the left side */
+    border-right: 3px solid white; /* Thin white outline on the right side */
+    border-top: 3px solid white; /* Thin white outline on the bottom */
+}
