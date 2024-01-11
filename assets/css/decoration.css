@@ -5,23 +5,23 @@
 
 .decorate-header {
     background-color: cornsilk;
-    border-left: 3px solid #6C5186;
-    border-right: 3px solid #6C5186;
-    border-bottom: 3px solid #6C5186;
+    border-left: 5px solid #E73348;
+    border-right: 5px solid #E73348;
+    border-bottom: 5px solid #E73348;
 }
 
 .decorate-content {
     background-color: cornsilk;
-    border-left: 3px solid #6C5186;
-    border-right: 3px solid #6C5186;
+    border-left: 5px solid #E73348;
+    border-right: 5px solid #E73348;
 }
 
 .decorate-footer {
     background-color: cornsilk;
-    border-left: 3px solid #6C5186;
-    border-right: 3px solid #6C5186;
-    border-top: 3px solid #6C5186;
+    border-left: 5px solid #E73348;
+    border-right: 5px solid #E73348;
+    border-top: 5px solid #E73348;
 }
 
-/* #6C5186 */
+/* #6C5-186 */
 /* #E73348 */
