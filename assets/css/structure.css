@@ -5,6 +5,11 @@ img {
 
 
 
+.structure-body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .structure-header {
     margin: 0 auto;
     max-width: 1000px;
