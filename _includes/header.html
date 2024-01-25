@@ -5,7 +5,8 @@
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
       <a class="decorate-header-title" href="{{ "/" | relative_url }}">
-      <img src="/images/logo.png" style="width: 10%; height: auto"){{ site.title }}</a>
+        <img src="/images/logo.png" style="width: 10%; height: auto"/><div>{{ site.title }}</div>
+      </a>
   
       {%- if titles_size > 0 -%}
             {%- for path in page_paths -%}
